@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6547b66c-a853-4ede-ae56-187e32a1414c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W7wfmDoJTEcvNczzAHx6w2c0Zo" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ExcerciseThree" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\crudTraining\ExcerciseThree" />
+      <recent name="C:\wamp64\www\crudTraining\ExcerciseTwoCalculations" />
+      <recent name="C:\wamp64\www\crudTraining\ExcerciseTwo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\crudTraining\ExcerciseTwo" />
+      <recent name="C:\wamp64\www\crudTraining\ExcerciseThree" />
+      <recent name="C:\wamp64\www\crudTraining\ExcerciseOne" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="exerciseOne.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/crudTraining/exerciseOne.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.exerciseOne.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6547b66c-a853-4ede-ae56-187e32a1414c" name="Default Changelist" comment="" />
+      <created>1578514047243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578514047243</updated>
+      <workItem from="1578514050827" duration="50000" />
+      <workItem from="1578514141920" duration="10387000" />
+      <workItem from="1578605344894" duration="8936000" />
+      <workItem from="1578668344014" duration="20736000" />
+      <workItem from="1578689906444" duration="46000" />
+      <workItem from="1578944953019" duration="13507000" />
+      <workItem from="1579027940465" duration="928000" />
+      <workItem from="1579029272928" duration="308000" />
+      <workItem from="1579035405126" duration="6668000" />
+      <workItem from="1579118623740" duration="223000" />
+      <workItem from="1579118879287" duration="9858000" />
+      <workItem from="1579129171142" duration="422000" />
+      <workItem from="1579199229150" duration="905000" />
+      <workItem from="1579200309912" duration="629000" />
+      <workItem from="1579210474079" duration="7138000" />
+      <workItem from="1579633039572" duration="1272000" />
+      <workItem from="1579642035083" duration="246000" />
+      <workItem from="1579642303522" duration="7189000" />
+      <workItem from="1579723598509" duration="10166000" />
+      <workItem from="1579801085648" duration="923000" />
+      <workItem from="1579814947436" duration="7051000" />
+      <workItem from="1587441353592" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587441352074">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587441352074" />
+  </component>
+</project>

@@ -1,0 +1,90 @@
+body
+{
+    margin:0;
+}
+header
+{
+    background-color:black;
+    color:white;
+    width:100%;
+    border: 2px black solid;
+    text-align:center;
+}
+nav
+{
+    overflow: hidden;
+    background-color: #333;
+    width:100%;
+    position:sticky;
+    top:0;
+
+
+}
+ul
+{
+    list-style-type: none;
+    float:left;
+    margin:0;
+    padding:0;
+
+}
+li
+{
+    float:left;
+}
+li a:hover:not(.active)
+{
+    background-color:black;
+}
+li a
+{
+    display:block;
+    color:white;
+    padding: 14px 16px;
+}
+
+.active
+{
+    background-color:green;
+}
+section
+{
+    padding:25px;
+}
+table
+{
+    width:100%;
+    border:3px solid black;
+}
+th{
+    border: 4px solid black;
+    border-collapse:collapse;
+    background-color:Grey;
+    font-size:32px;
+    color:white;
+
+}
+tr,td{
+    text-align:center;
+}
+footer
+{
+    background-color:black;
+    color:white;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    font-size:24px;
+    border: 10px black solid;
+}
+.evenTable {
+    border:3px solid black;
+    background-color:lightgray;
+    padding:8px;
+}
+.oddTable{
+    border:3px solid black;
+    background-color:darkgray;
+    color:white;
+    padding:8px;
+}
